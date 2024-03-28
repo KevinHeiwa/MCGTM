@@ -1,4 +1,4 @@
-<img width="670" alt="截屏2024-03-11 14 04 33" src="https://github.com/KevinHeiwa/2025ICSE/assets/128030601/a6115b91-fc58-401d-ae04-1b01ecdd85ff"># Tracing Malicious Creations: An Encodable and Robust Online Watermark for LLM-Generated Code
+# Tracing Malicious Creations: An Encodable and Robust Online Watermark for LLM-Generated Code
 This repository contains a preliminary version of this paper, a framework of an encodable online watermark against LLM malicious code generation 
 
 ## Structure
