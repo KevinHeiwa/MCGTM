@@ -28,4 +28,4 @@ and quick start:
 ```
 python watermark.py
 ```
-Note that you need to prepare Code LLM in advance and configure the relevant runtime environment and parameters. You may be able to find the most suitable configuration for you from the following materials: https://huggingface.co/docs/transformers/main_classes/tokenizer
+Note that you need to prepare Code LLM in advance and configure the relevant runtime environment and parameters. You may be able to find the most suitable configuration for you from the following materials: https://huggingface.co/docs/transformers/main_classes/tokenizer and https://huggingface.co/learn/nlp-course/chapter1/1
